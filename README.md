@@ -1,2 +1,2 @@
 # BasicJava
-Elac CO SCI 290 Course
+ELAC CO SCI 290 Course
